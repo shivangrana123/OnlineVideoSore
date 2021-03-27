@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineVideoSore", "OnlineVideoSore\OnlineVideoSore.csproj", "{E7049AF7-8F3B-4C0B-950F-495610E8CA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7049AF7-8F3B-4C0B-950F-495610E8CA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7049AF7-8F3B-4C0B-950F-495610E8CA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7049AF7-8F3B-4C0B-950F-495610E8CA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7049AF7-8F3B-4C0B-950F-495610E8CA54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48ED621-6B26-49F4-8331-F7377E686EA7}
+	EndGlobalSection
+EndGlobal
